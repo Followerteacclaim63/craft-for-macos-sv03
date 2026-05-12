@@ -1,4 +1,4 @@
-#  
+#  Enhance Craft for macOS with Craft for macOS new Automation: goal tracking & task automation, the #1 automation. Includes goal tracking and task automation for a smoother
 
 
 
